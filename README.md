@@ -16,9 +16,6 @@ This is an independently made project. Its purpose was to help me better underst
 - Python
 - MySQL / MySQi
 
-## **Live Demo:**
-- [nookbook.com](https://raw.githack.com/kokonutzlabs/Animal-Crossing-Social-Portal/main/part1_setup/index/nook-book2.html)
-
 ## **Future Changes:**
 
 ## License
