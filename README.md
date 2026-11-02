@@ -16,8 +16,6 @@ This is an independently made project. Its purpose was to help me better underst
 - Python
 - MySQL / MySQi
 
-## **Future Changes:**
-
 ## License
 **Educational Use Only:** This project contains intentionally vulnerable components for security training and must not be deployed to production environments.
 
